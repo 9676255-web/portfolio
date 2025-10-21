@@ -10,5 +10,4 @@ Description
 
 * [Windows EXE]()
 * [Mac App]()
-* [Linux Executable]()
-* [Source Code]()
+
